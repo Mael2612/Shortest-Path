@@ -21,7 +21,7 @@ Le jeu met en avant la logique algorithmique pour résoudre des problèmes de gr
 ## Installation  
 1. **Cloner le dépôt** :  
    ```bash  
-   git clone <url-du-dépôt>  
+   git clone https://github.com/Mael2612/Shortest-Path.git
    ```  
 
 2. **Installer les dépendances** :  
